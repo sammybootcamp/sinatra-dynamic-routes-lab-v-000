@@ -25,3 +25,5 @@ You can take a look at [this list](http://www.degraeve.com/reference/urlencoding
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-dynamic-routes-lab' title='Sinatra Dynamic Routes Lab'>Sinatra Dynamic Routes Lab</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-dynamic-routes-lab'>Dynamic Routes Lab</a> on Learn.co and start learning to code for free.</p>
+
+get '/'
